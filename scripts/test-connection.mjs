@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const SUPABASE_URL = 'https://lwnqqjqaiauiqyxebehd.supabase.co';
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx3bnFxanFhaWF1aXF5eGViZWhkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ5MzA1ODcsImV4cCI6MjA2MDUwNjU4N30.ZU0KybzGb_SZFWu_CQj-6qNGvn7_O10qWaC1iBu95KA';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx3bnFxanFhaWF1aXF5eGViZWhkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYzNjY0NzYsImV4cCI6MjA5MTk0MjQ3Nn0.g6wrTI53TTKnT5OMX41cnv1S4fMsq_6WqkBUz9INH3A';
 
 console.log('🔍 Проверка подключения к Supabase...\n');
 
