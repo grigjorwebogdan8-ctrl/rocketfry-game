@@ -9,8 +9,7 @@ bot.onText(/\/start/, (msg) => {
         [
           {
             text: "Играть 🚀",
-            web_app: { url: "https://crash-game-lac.vercel.app" }
-
+            web_app: { url: "https://rocketfry-game.vercel.app" }
           }
         ]
       ]
